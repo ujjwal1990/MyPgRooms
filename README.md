@@ -2,4 +2,5 @@ MyPgRooms
 =========
 
 My First app repository on github.
-it's a simple project repository
+Making changes in the Readme.md file to check the commit.
+
